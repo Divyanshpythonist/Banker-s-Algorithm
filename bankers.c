@@ -2,12 +2,6 @@
 
 
 #include<stdio.h>
-
-
-
-
-
-
 int main()
 { 
  int n1=0,n2=0;
@@ -17,7 +11,6 @@ int main()
   {
     int r[n1];   
   };
- 
 struct process
 {
  struct resource max;
